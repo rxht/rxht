@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rxht)](https://github.com/stats-organization/github-stats-extended)
-
 <!--
 **rxht/rxht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
