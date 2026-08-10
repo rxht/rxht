@@ -40,6 +40,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PyMOL 安装教程（Windows 11）](https://rxht.github.io/chemical/software/PyMol/)
+- [化学中常用软件](https://rxht.github.io/chemical/software/)
+- [10.扩展默认主题](https://rxht.github.io/others/vitepress/guide/extending-default-theme)
+- [01.快速开始](https://rxht.github.io/others/vitepress/guide/getting-started)
+- [08.国际化](https://rxht.github.io/others/vitepress/guide/i18n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
