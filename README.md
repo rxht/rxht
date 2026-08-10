@@ -48,7 +48,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🧪 [MolStar 分子可视化工具](molstar.szbl.ac.cn/viewer/) | 基于 MolStar 深度优化，支持结构编辑、参数调整、模型修改 |
+| 🧪 [MolStar 分子可视化工具](https://molstar.szbl.ac.cn/viewer/) | 基于 MolStar 深度优化，支持结构编辑、参数调整、模型修改 |
 | 📝 [Blog · 化学](https://rxht.github.io/chemical/) | 化学相关笔记与可视化内容 |
 | 💻 [Blog · JavaScript](https://rxht.github.io/javascript/) | 前端工程实践 & 技术分享 |
 | 📚 [Blog · 教程 & 文档](https://rxht.github.io/others/) | 代码片段、工具说明、教程 |
