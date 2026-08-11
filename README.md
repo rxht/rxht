@@ -40,11 +40,16 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [原子间相互作用的物理本质](https://rxht.github.io/chemical/atomic-interactions)
 - [PyMOL 安装教程（Windows 11）](https://rxht.github.io/chemical/software/PyMol/)
 - [化学中常用软件](https://rxht.github.io/chemical/software/)
 - [10.扩展默认主题](https://rxht.github.io/others/vitepress/guide/extending-default-theme)
 - [01.快速开始](https://rxht.github.io/others/vitepress/guide/getting-started)
 - [08.国际化](https://rxht.github.io/others/vitepress/guide/i18n)
+- [15.生成 sitemap](https://rxht.github.io/others/vitepress/guide/sitemap-generation)
+- [自动侧边栏](https://rxht.github.io/others/vitepress/plugin/sidebar)
+- [00.默认主题配置](https://rxht.github.io/others/vitepress/reference/default-theme-config/default-theme-config)
+- [09.编辑链接](https://rxht.github.io/others/vitepress/reference/default-theme-config/default-theme-edit-link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
