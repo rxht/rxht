@@ -15,7 +15,7 @@
 - 🧑‍💻 **前端 / 全栈工程师**
 - 🧪 交叉领域：**化学 × 科学可视化 × 开源工具**
 - 🧬 代表作：基于 **MolStar** 深度优化的分子可视化 & 编辑器
-- ✍️ 博客：[rxht.github.io](https://rxht.github.io/)（160 篇+）
+- ✍️ 博客：[rxht.github.io](https://rxht.github.io/)（210 篇+）
 - 📫 联系：通过 GitHub Issues / 博客评论
 - 🌱 在学：`WebGL` · `Three.js` · `科学数据可视化`
 
