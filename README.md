@@ -40,16 +40,16 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [原子间相互作用的物理本质](https://rxht.github.io/chemical/atomic-interactions)
-- [PyMOL 安装教程（Windows 11）](https://rxht.github.io/chemical/software/PyMol/)
-- [化学中常用软件](https://rxht.github.io/chemical/software/)
-- [10.扩展默认主题](https://rxht.github.io/others/vitepress/guide/extending-default-theme)
-- [01.快速开始](https://rxht.github.io/others/vitepress/guide/getting-started)
-- [08.国际化](https://rxht.github.io/others/vitepress/guide/i18n)
-- [15.生成 sitemap](https://rxht.github.io/others/vitepress/guide/sitemap-generation)
-- [自动侧边栏](https://rxht.github.io/others/vitepress/plugin/sidebar)
-- [00.默认主题配置](https://rxht.github.io/others/vitepress/reference/default-theme-config/default-theme-config)
-- [09.编辑链接](https://rxht.github.io/others/vitepress/reference/default-theme-config/default-theme-edit-link)
+- [化学能量单位换算参考](https://rxht.github.io/chemical/energy-unit-conversion)
+- [前端大屏适配](https://rxht.github.io/javascript/css/frontend-large-screen-adaptation)
+- [Slurm 本地单机安装与邮件通知](https://rxht.github.io/others/slurm/)
+- [Runtime API Examples](https://rxht.github.io/api-examples)
+- [归档 - 个人博客](https://rxht.github.io/archive)
+- [化学键的类型](https://rxht.github.io/chemical/bonds-type)
+- [化学部分](https://rxht.github.io/chemical/)
+- [原子轨道](https://rxht.github.io/chemical/molecular-structure/atomica-orbital)
+- [前线轨道](https://rxht.github.io/chemical/molecular-structure/frontier-molecular-orbital)
+- [分子结构](https://rxht.github.io/chemical/molecular-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
