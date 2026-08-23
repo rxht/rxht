@@ -40,6 +40,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [codegraph 安装使用教程](https://rxht.github.io/others/ai/codegraph/)
 - [化学能量单位换算参考](https://rxht.github.io/chemical/energy-unit-conversion)
 - [前端大屏适配](https://rxht.github.io/javascript/css/frontend-large-screen-adaptation)
 - [Slurm 本地单机安装与邮件通知](https://rxht.github.io/others/slurm/)
@@ -49,7 +50,6 @@
 - [化学部分](https://rxht.github.io/chemical/)
 - [原子轨道](https://rxht.github.io/chemical/molecular-structure/atomica-orbital)
 - [前线轨道](https://rxht.github.io/chemical/molecular-structure/frontier-molecular-orbital)
-- [分子结构](https://rxht.github.io/chemical/molecular-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
