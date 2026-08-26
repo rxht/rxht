@@ -40,16 +40,16 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [codegraph 安装使用教程](https://rxht.github.io/others/ai/codegraph/)
-- [化学能量单位换算参考](https://rxht.github.io/chemical/energy-unit-conversion)
-- [前端大屏适配](https://rxht.github.io/javascript/css/frontend-large-screen-adaptation)
-- [Slurm 本地单机安装与邮件通知](https://rxht.github.io/others/slurm/)
-- [Runtime API Examples](https://rxht.github.io/api-examples)
-- [归档 - 个人博客](https://rxht.github.io/archive)
-- [化学键的类型](https://rxht.github.io/chemical/bonds-type)
-- [化学部分](https://rxht.github.io/chemical/)
-- [原子轨道](https://rxht.github.io/chemical/molecular-structure/atomica-orbital)
-- [前线轨道](https://rxht.github.io/chemical/molecular-structure/frontier-molecular-orbital)
+- [mmCIF](https://rxht.github.io/molstar/file-format/mmcif)
+- [DeepSeek Harness](https://rxht.github.io/others/ai/DeepSeekHarness)
+- [linux 版本安装](https://rxht.github.io/molstar/linux)
+- [CUBE](https://rxht.github.io/molstar/file-format/cube)
+- [DAT](https://rxht.github.io/molstar/file-format/dat)
+- [RXH](https://rxht.github.io/molstar/file-format/rxh)
+- [XYZ](https://rxht.github.io/molstar/file-format/xyz)
+- [Qbics-MolStar](https://rxht.github.io/molstar/)
+- [FCH](https://rxht.github.io/molstar/file-format/fch)
+- [文件格式](https://rxht.github.io/molstar/file-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
