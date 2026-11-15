@@ -40,16 +40,16 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BLA](https://rxht.github.io/others/ai/bla/)
+- [codegraph 安装使用教程](https://rxht.github.io/others/ai/codegraph/)
+- [REA](https://rxht.github.io/others/ai/rea/)
+- [量子化学](https://rxht.github.io/chemical/quantum-chemistry/)
+- [量子化学的性质计算与导数](https://rxht.github.io/chemical/quantum-chemistry/properties-derivatives/)
 - [mmCIF](https://rxht.github.io/molstar/file-format/mmcif)
 - [DeepSeek Harness](https://rxht.github.io/others/ai/DeepSeekHarness)
 - [linux 版本安装](https://rxht.github.io/molstar/linux)
 - [CUBE](https://rxht.github.io/molstar/file-format/cube)
 - [DAT](https://rxht.github.io/molstar/file-format/dat)
-- [RXH](https://rxht.github.io/molstar/file-format/rxh)
-- [XYZ](https://rxht.github.io/molstar/file-format/xyz)
-- [Qbics-MolStar](https://rxht.github.io/molstar/)
-- [FCH](https://rxht.github.io/molstar/file-format/fch)
-- [文件格式](https://rxht.github.io/molstar/file-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
